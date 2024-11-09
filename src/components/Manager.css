@@ -1,0 +1,23 @@
+.icon {
+    width: 40px; /* Default size */
+    height: 40px;
+  }
+  
+  @media (max-width: 640px) { /* Small screens, like mobile */
+    .icon {
+      width: 24px;
+      height: 24px;
+    }
+  }
+  .icon {
+    width: 40px; /* Default size */
+    height: 40px;
+  }
+  
+  @media (max-width: 640px) { /* Small screens, like mobile */
+    .icon {
+      width: 24px;
+      height: 24px;
+    }
+  }
+    
